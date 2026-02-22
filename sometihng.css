@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+}
+      
+
+body{
+    font-family: cursive;
+    background-color:burlywood;
+    
+}
+.f1{
+    margin: auto;
+    height: 50px;
+    width: 600px;
+    border: 3px solid red; 
+  text-align: center; 
+}
+.f3{  
+    
+    text-align: center;
+
+}
+.f4{
+    margin: auto;
+    height: 480px;
+    width: 600px;
+    border: 3px solid red;
+    overflow: auto;
+    color:red;
+}
+.h{
+    color: red;
+}
+.button{
+    color: red;
+}
+.list{
+    color: red;
+}
+.input{
+    color:red;
+    background-color: antiquewhite;
+}
